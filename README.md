@@ -19,7 +19,7 @@ Clone the Repository:
 Clone this repository to your local machine using the following command:
 shell
 Copy code
-git clone [https://github.com/YourGitHubUsername/MyTodoApp.git](https://github.com/AnshulThiraniya/mytodo_ap)
+git clone [https://github.com/YourGitHubUsername/MyTodoApp.git](https://github.com/AnshulThiraniya/mytodo_app)
 # Open the Project:
 
 Open the project using Android Studio.
